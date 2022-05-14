@@ -1,0 +1,15 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "this is real time chat app devloped using node.js by jay ambaliya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1"
+  }
+}
